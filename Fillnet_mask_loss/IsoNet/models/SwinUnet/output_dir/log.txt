@@ -1,0 +1,495 @@
+[17:23:25.388] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[17:23:25.398] 93 iterations per epoch. 13950 max iterations 
+[17:41:04.609] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[17:41:04.616] 93 iterations per epoch. 13950 max iterations 
+[18:12:38.892] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:12:38.900] 93 iterations per epoch. 13950 max iterations 
+[18:13:32.921] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:13:32.927] 93 iterations per epoch. 13950 max iterations 
+[18:14:16.782] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:14:16.789] 93 iterations per epoch. 13950 max iterations 
+[18:15:01.469] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:15:01.475] 93 iterations per epoch. 13950 max iterations 
+[18:15:58.903] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:16:49.650] 93 iterations per epoch. 13950 max iterations 
+[18:17:12.282] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:17:12.284] 93 iterations per epoch. 13950 max iterations 
+[18:18:09.656] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:18:09.664] 93 iterations per epoch. 13950 max iterations 
+[18:21:34.213] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:22:14.607] 93 iterations per epoch. 13950 max iterations 
+[18:23:30.960] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:23:42.874] 93 iterations per epoch. 13950 max iterations 
+[18:24:20.655] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:25:08.616] 93 iterations per epoch. 13950 max iterations 
+[18:26:18.929] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='.\\\\output_dir', resume=None, root_path='.\\\\data\\\\Synapse\\\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:26:18.935] 93 iterations per epoch. 13950 max iterations 
+[18:27:03.193] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='.\\output_dir', resume=None, root_path='.\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:27:03.201] 93 iterations per epoch. 13950 max iterations 
+[18:27:55.034] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='.\\output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\Swin-Unet-main\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:27:55.041] 93 iterations per epoch. 13950 max iterations 
+[18:30:14.507] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='E:/workspace/py_workspace/py_fold/Swin-Unet-main/data/Synapse/train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:30:14.513] 93 iterations per epoch. 13950 max iterations 
+[18:31:08.894] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\Swin-Unet-main\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:31:08.901] 93 iterations per epoch. 13950 max iterations 
+[18:32:24.602] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\Swin-Unet-main\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:32:24.608] 93 iterations per epoch. 13950 max iterations 
+[18:36:29.230] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\Swin-Unet-main\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:36:29.236] 93 iterations per epoch. 13950 max iterations 
+[18:40:13.038] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\Swin-Unet-main\\data\\Synapse\\train_npz\\train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:40:13.072] 93 iterations per epoch. 13950 max iterations 
+[18:42:40.368] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:42:40.376] 93 iterations per epoch. 13950 max iterations 
+[18:42:45.744] iteration 1 : loss : 1.462003, loss_ce: 2.253238
+[18:42:46.877] iteration 2 : loss : 1.138809, loss_ce: 1.478323
+[18:42:47.913] iteration 3 : loss : 0.829305, loss_ce: 0.778053
+[18:42:48.986] iteration 4 : loss : 0.649309, loss_ce: 0.331266
+[18:42:50.007] iteration 5 : loss : 0.670209, loss_ce: 0.354190
+[18:42:50.959] iteration 6 : loss : 0.684662, loss_ce: 0.379224
+[18:42:52.021] iteration 7 : loss : 0.676651, loss_ce: 0.356410
+[18:42:52.962] iteration 8 : loss : 0.657076, loss_ce: 0.307510
+[18:42:53.958] iteration 9 : loss : 0.626344, loss_ce: 0.231166
+[18:42:55.007] iteration 10 : loss : 0.668521, loss_ce: 0.335306
+[18:42:55.951] iteration 11 : loss : 0.669794, loss_ce: 0.338401
+[18:42:56.967] iteration 12 : loss : 0.648577, loss_ce: 0.285936
+[18:42:58.068] iteration 13 : loss : 0.705954, loss_ce: 0.427864
+[18:42:59.185] iteration 14 : loss : 0.709352, loss_ce: 0.436472
+[18:43:00.126] iteration 15 : loss : 0.676890, loss_ce: 0.357230
+[18:43:01.112] iteration 16 : loss : 0.626689, loss_ce: 0.235797
+[18:43:02.243] iteration 17 : loss : 0.644330, loss_ce: 0.284183
+[18:43:03.250] iteration 18 : loss : 0.649106, loss_ce: 0.305087
+[18:43:04.183] iteration 19 : loss : 0.639310, loss_ce: 0.294964
+[18:43:05.274] iteration 20 : loss : 0.608067, loss_ce: 0.227655
+[18:43:06.234] iteration 21 : loss : 0.618539, loss_ce: 0.258982
+[18:43:07.185] iteration 22 : loss : 0.637584, loss_ce: 0.315083
+[18:43:08.237] iteration 23 : loss : 0.604253, loss_ce: 0.222394
+[18:43:09.292] iteration 24 : loss : 0.646223, loss_ce: 0.322098
+[18:43:10.322] iteration 25 : loss : 0.644315, loss_ce: 0.312328
+[18:43:11.376] iteration 26 : loss : 0.590340, loss_ce: 0.182415
+[18:43:12.431] iteration 27 : loss : 0.644468, loss_ce: 0.322040
+[18:43:13.437] iteration 28 : loss : 0.599909, loss_ce: 0.232113
+[18:43:14.384] iteration 29 : loss : 0.587274, loss_ce: 0.239224
+[18:43:15.389] iteration 30 : loss : 0.587201, loss_ce: 0.247255
+[18:43:16.369] iteration 31 : loss : 0.580120, loss_ce: 0.201998
+[18:43:17.343] iteration 32 : loss : 0.585009, loss_ce: 0.217401
+[18:43:18.415] iteration 33 : loss : 0.591963, loss_ce: 0.199832
+[18:43:19.527] iteration 34 : loss : 0.606167, loss_ce: 0.230328
+[18:43:20.470] iteration 35 : loss : 0.577021, loss_ce: 0.183046
+[18:43:21.492] iteration 36 : loss : 0.574687, loss_ce: 0.188439
+[18:43:22.623] iteration 37 : loss : 0.585409, loss_ce: 0.244445
+[18:43:23.692] iteration 38 : loss : 0.583125, loss_ce: 0.241280
+[18:43:24.749] iteration 39 : loss : 0.557892, loss_ce: 0.124144
+[18:43:25.756] iteration 40 : loss : 0.597908, loss_ce: 0.199040
+[18:43:26.819] iteration 41 : loss : 0.616117, loss_ce: 0.225673
+[18:43:27.780] iteration 42 : loss : 0.602284, loss_ce: 0.192647
+[18:43:28.770] iteration 43 : loss : 0.570722, loss_ce: 0.117566
+[18:43:29.803] iteration 44 : loss : 0.595739, loss_ce: 0.191198
+[18:43:30.762] iteration 45 : loss : 0.567272, loss_ce: 0.155112
+[18:43:31.726] iteration 46 : loss : 0.582847, loss_ce: 0.227162
+[18:43:32.759] iteration 47 : loss : 0.583629, loss_ce: 0.247294
+[18:43:33.669] iteration 48 : loss : 0.595265, loss_ce: 0.295828
+[18:43:34.727] iteration 49 : loss : 0.590234, loss_ce: 0.250797
+[18:43:35.691] iteration 50 : loss : 0.569910, loss_ce: 0.163875
+[18:43:36.688] iteration 51 : loss : 0.582134, loss_ce: 0.178673
+[18:43:37.773] iteration 52 : loss : 0.570432, loss_ce: 0.137591
+[18:43:38.858] iteration 53 : loss : 0.579145, loss_ce: 0.159023
+[18:43:39.880] iteration 54 : loss : 0.555304, loss_ce: 0.110892
+[18:43:41.039] iteration 55 : loss : 0.589676, loss_ce: 0.203485
+[18:43:42.250] iteration 56 : loss : 0.591383, loss_ce: 0.228142
+[18:43:43.357] iteration 57 : loss : 0.575140, loss_ce: 0.199104
+[18:43:44.286] iteration 58 : loss : 0.589727, loss_ce: 0.265840
+[18:43:45.292] iteration 59 : loss : 0.570974, loss_ce: 0.220416
+[18:43:46.279] iteration 60 : loss : 0.578146, loss_ce: 0.223203
+[18:43:47.322] iteration 61 : loss : 0.605181, loss_ce: 0.273948
+[18:43:48.277] iteration 62 : loss : 0.550252, loss_ce: 0.136944
+[18:43:49.214] iteration 63 : loss : 0.564235, loss_ce: 0.155739
+[18:43:50.228] iteration 64 : loss : 0.558704, loss_ce: 0.150737
+[18:43:51.330] iteration 65 : loss : 0.561727, loss_ce: 0.155724
+[18:43:52.404] iteration 66 : loss : 0.574864, loss_ce: 0.190648
+[18:43:53.484] iteration 67 : loss : 0.575785, loss_ce: 0.208990
+[18:43:54.529] iteration 68 : loss : 0.591846, loss_ce: 0.280295
+[18:43:55.554] iteration 69 : loss : 0.578322, loss_ce: 0.257726
+[18:43:56.549] iteration 70 : loss : 0.568342, loss_ce: 0.219366
+[18:43:57.553] iteration 71 : loss : 0.580999, loss_ce: 0.246118
+[18:43:58.570] iteration 72 : loss : 0.571243, loss_ce: 0.188297
+[18:43:59.577] iteration 73 : loss : 0.563382, loss_ce: 0.146865
+[18:44:00.552] iteration 74 : loss : 0.586585, loss_ce: 0.210252
+[18:44:01.528] iteration 75 : loss : 0.579919, loss_ce: 0.204091
+[18:44:02.631] iteration 76 : loss : 0.567418, loss_ce: 0.174410
+[18:44:03.676] iteration 77 : loss : 0.576530, loss_ce: 0.211924
+[18:44:04.807] iteration 78 : loss : 0.577940, loss_ce: 0.233660
+[18:44:05.853] iteration 79 : loss : 0.570461, loss_ce: 0.197541
+[18:44:06.838] iteration 80 : loss : 0.581149, loss_ce: 0.237429
+[18:44:07.869] iteration 81 : loss : 0.557415, loss_ce: 0.179746
+[18:44:08.996] iteration 82 : loss : 0.578340, loss_ce: 0.223215
+[18:44:09.953] iteration 83 : loss : 0.577717, loss_ce: 0.216215
+[18:44:10.929] iteration 84 : loss : 0.592890, loss_ce: 0.255139
+[18:44:11.945] iteration 85 : loss : 0.583689, loss_ce: 0.239317
+[18:44:12.906] iteration 86 : loss : 0.569447, loss_ce: 0.193789
+[18:44:13.823] iteration 87 : loss : 0.589476, loss_ce: 0.239125
+[18:44:14.867] iteration 88 : loss : 0.587502, loss_ce: 0.239259
+[18:44:15.904] iteration 89 : loss : 0.558103, loss_ce: 0.167105
+[18:44:17.005] iteration 90 : loss : 0.551057, loss_ce: 0.150924
+[18:44:18.063] iteration 91 : loss : 0.592680, loss_ce: 0.247857
+[18:44:19.047] iteration 92 : loss : 0.572877, loss_ce: 0.191291
+[18:44:19.291] iteration 93 : loss : 0.571540, loss_ce: 0.234877
+[18:44:20.246] iteration 94 : loss : 0.586147, loss_ce: 0.264874
+[18:44:21.207] iteration 95 : loss : 0.560836, loss_ce: 0.197291
+[18:44:22.222] iteration 96 : loss : 0.577332, loss_ce: 0.227097
+[18:44:23.214] iteration 97 : loss : 0.568937, loss_ce: 0.199797
+[18:44:24.206] iteration 98 : loss : 0.572118, loss_ce: 0.187075
+[18:44:25.087] iteration 99 : loss : 0.572127, loss_ce: 0.188227
+[18:44:26.101] iteration 100 : loss : 0.575443, loss_ce: 0.200997
+[18:44:27.125] iteration 101 : loss : 0.571231, loss_ce: 0.192313
+[18:44:28.161] iteration 102 : loss : 0.573720, loss_ce: 0.249526
+[18:44:29.115] iteration 103 : loss : 0.582043, loss_ce: 0.245055
+[18:44:29.975] iteration 104 : loss : 0.586247, loss_ce: 0.258951
+[18:44:31.064] iteration 105 : loss : 0.564954, loss_ce: 0.196905
+[18:44:32.065] iteration 106 : loss : 0.557913, loss_ce: 0.166692
+[18:44:33.034] iteration 107 : loss : 0.573073, loss_ce: 0.207413
+[18:44:34.030] iteration 108 : loss : 0.549846, loss_ce: 0.154169
+[18:44:34.932] iteration 109 : loss : 0.564835, loss_ce: 0.165194
+[18:44:35.936] iteration 110 : loss : 0.571347, loss_ce: 0.209786
+[18:44:36.847] iteration 111 : loss : 0.565250, loss_ce: 0.213935
+[18:44:37.814] iteration 112 : loss : 0.569819, loss_ce: 0.209342
+[18:44:38.711] iteration 113 : loss : 0.576135, loss_ce: 0.199641
+[18:44:39.711] iteration 114 : loss : 0.602115, loss_ce: 0.267215
+[18:44:40.696] iteration 115 : loss : 0.574834, loss_ce: 0.214334
+[18:44:41.671] iteration 116 : loss : 0.601497, loss_ce: 0.301598
+[18:44:42.699] iteration 117 : loss : 0.572998, loss_ce: 0.249785
+[18:44:43.633] iteration 118 : loss : 0.572799, loss_ce: 0.240880
+[18:44:44.652] iteration 119 : loss : 0.562800, loss_ce: 0.188730
+[18:44:45.671] iteration 120 : loss : 0.588461, loss_ce: 0.246134
+[18:44:46.627] iteration 121 : loss : 0.574568, loss_ce: 0.198593
+[18:44:47.603] iteration 122 : loss : 0.554261, loss_ce: 0.150230
+[18:44:48.599] iteration 123 : loss : 0.570477, loss_ce: 0.181618
+[18:44:49.598] iteration 124 : loss : 0.567966, loss_ce: 0.216621
+[18:44:50.602] iteration 125 : loss : 0.569419, loss_ce: 0.221283
+[18:44:51.537] iteration 126 : loss : 0.559295, loss_ce: 0.202740
+[18:44:52.478] iteration 127 : loss : 0.561391, loss_ce: 0.188371
+[18:44:53.478] iteration 128 : loss : 0.562394, loss_ce: 0.184318
+[18:44:54.476] iteration 129 : loss : 0.556453, loss_ce: 0.161495
+[18:44:55.453] iteration 130 : loss : 0.568027, loss_ce: 0.185684
+[18:44:56.426] iteration 131 : loss : 0.567158, loss_ce: 0.192668
+[18:44:57.505] iteration 132 : loss : 0.562607, loss_ce: 0.192341
+[18:44:58.481] iteration 133 : loss : 0.571811, loss_ce: 0.221163
+[18:44:59.502] iteration 134 : loss : 0.563753, loss_ce: 0.192701
+[18:45:00.541] iteration 135 : loss : 0.542655, loss_ce: 0.129290
+[18:45:01.465] iteration 136 : loss : 0.560312, loss_ce: 0.132663
+[18:45:02.416] iteration 137 : loss : 0.581474, loss_ce: 0.190699
+[18:45:03.341] iteration 138 : loss : 0.594169, loss_ce: 0.243607
+[18:45:04.332] iteration 139 : loss : 0.578818, loss_ce: 0.246897
+[18:45:05.556] iteration 140 : loss : 0.579692, loss_ce: 0.280598
+[18:45:06.659] iteration 141 : loss : 0.585464, loss_ce: 0.290519
+[18:45:07.725] iteration 142 : loss : 0.571029, loss_ce: 0.225328
+[18:45:08.801] iteration 143 : loss : 0.565885, loss_ce: 0.162085
+[18:45:09.829] iteration 144 : loss : 0.577118, loss_ce: 0.170557
+[18:45:10.842] iteration 145 : loss : 0.572428, loss_ce: 0.158368
+[18:45:11.828] iteration 146 : loss : 0.562333, loss_ce: 0.157468
+[18:45:12.834] iteration 147 : loss : 0.550152, loss_ce: 0.148754
+[18:45:13.860] iteration 148 : loss : 0.560666, loss_ce: 0.186700
+[18:45:14.835] iteration 149 : loss : 0.572198, loss_ce: 0.219354
+[18:45:15.934] iteration 150 : loss : 0.566125, loss_ce: 0.220774
+[18:45:17.029] iteration 151 : loss : 0.569386, loss_ce: 0.203810
+[18:45:18.109] iteration 152 : loss : 0.568247, loss_ce: 0.174507
+[18:45:19.047] iteration 153 : loss : 0.552565, loss_ce: 0.149988
+[18:45:20.035] iteration 154 : loss : 0.580070, loss_ce: 0.202052
+[18:45:20.993] iteration 155 : loss : 0.564094, loss_ce: 0.155730
+[18:45:21.993] iteration 156 : loss : 0.562452, loss_ce: 0.168123
+[18:45:22.971] iteration 157 : loss : 0.566268, loss_ce: 0.180906
+[18:45:24.050] iteration 158 : loss : 0.562574, loss_ce: 0.184403
+[18:45:25.095] iteration 159 : loss : 0.579339, loss_ce: 0.235620
+[18:45:26.147] iteration 160 : loss : 0.574177, loss_ce: 0.242230
+[18:45:27.143] iteration 161 : loss : 0.578859, loss_ce: 0.250884
+[18:45:28.266] iteration 162 : loss : 0.565244, loss_ce: 0.166032
+[18:45:29.222] iteration 163 : loss : 0.550570, loss_ce: 0.141348
+[18:45:30.089] iteration 164 : loss : 0.575505, loss_ce: 0.179810
+[18:45:31.110] iteration 165 : loss : 0.550126, loss_ce: 0.098399
+[18:45:32.111] iteration 166 : loss : 0.587629, loss_ce: 0.194808
+[18:45:33.059] iteration 167 : loss : 0.574899, loss_ce: 0.174178
+[18:45:34.066] iteration 168 : loss : 0.604626, loss_ce: 0.292386
+[18:45:35.069] iteration 169 : loss : 0.571093, loss_ce: 0.233548
+[18:45:36.025] iteration 170 : loss : 0.572597, loss_ce: 0.252314
+[18:45:36.983] iteration 171 : loss : 0.570594, loss_ce: 0.239523
+[18:45:38.007] iteration 172 : loss : 0.569282, loss_ce: 0.200211
+[18:45:38.987] iteration 173 : loss : 0.557144, loss_ce: 0.143284
+[18:45:40.093] iteration 174 : loss : 0.551059, loss_ce: 0.141548
+[18:45:41.085] iteration 175 : loss : 0.564598, loss_ce: 0.142163
+[18:45:42.157] iteration 176 : loss : 0.565386, loss_ce: 0.163603
+[18:45:43.261] iteration 177 : loss : 0.569349, loss_ce: 0.187670
+[18:45:44.264] iteration 178 : loss : 0.553247, loss_ce: 0.151408
+[18:45:45.308] iteration 179 : loss : 0.570069, loss_ce: 0.213020
+[18:45:46.314] iteration 180 : loss : 0.571057, loss_ce: 0.219716
+[18:45:47.356] iteration 181 : loss : 0.568422, loss_ce: 0.228520
+[18:45:48.398] iteration 182 : loss : 0.553926, loss_ce: 0.185942
+[18:45:49.491] iteration 183 : loss : 0.572245, loss_ce: 0.205850
+[18:45:50.504] iteration 184 : loss : 0.562930, loss_ce: 0.164968
+[18:45:51.495] iteration 185 : loss : 0.556709, loss_ce: 0.147721
+[18:45:51.690] iteration 186 : loss : 0.602621, loss_ce: 0.253503
+[18:45:52.696] iteration 187 : loss : 0.562780, loss_ce: 0.180420
+[18:45:53.663] iteration 188 : loss : 0.566665, loss_ce: 0.193298
+[18:45:54.612] iteration 189 : loss : 0.567152, loss_ce: 0.229201
+[18:45:55.579] iteration 190 : loss : 0.555233, loss_ce: 0.191347
+[18:45:56.589] iteration 191 : loss : 0.562968, loss_ce: 0.187479
+[18:45:57.527] iteration 192 : loss : 0.568383, loss_ce: 0.171937
+[18:45:58.532] iteration 193 : loss : 0.568386, loss_ce: 0.164530
+[18:45:59.550] iteration 194 : loss : 0.565400, loss_ce: 0.159598
+[18:46:00.569] iteration 195 : loss : 0.555000, loss_ce: 0.168895
+[18:46:01.541] iteration 196 : loss : 0.548434, loss_ce: 0.167297
+[18:46:02.502] iteration 197 : loss : 0.571861, loss_ce: 0.238572
+[18:46:03.416] iteration 198 : loss : 0.558711, loss_ce: 0.203449
+[18:46:04.387] iteration 199 : loss : 0.563272, loss_ce: 0.176875
+[18:46:05.341] iteration 200 : loss : 0.580606, loss_ce: 0.229987
+[18:46:06.349] iteration 201 : loss : 0.548937, loss_ce: 0.159374
+[18:46:07.346] iteration 202 : loss : 0.576052, loss_ce: 0.236395
+[18:46:08.273] iteration 203 : loss : 0.573319, loss_ce: 0.236509
+[18:46:09.345] iteration 204 : loss : 0.574852, loss_ce: 0.243100
+[18:46:10.268] iteration 205 : loss : 0.562575, loss_ce: 0.199508
+[18:46:11.212] iteration 206 : loss : 0.561826, loss_ce: 0.196233
+[18:46:12.236] iteration 207 : loss : 0.551898, loss_ce: 0.149609
+[18:46:13.298] iteration 208 : loss : 0.559342, loss_ce: 0.205100
+[18:46:14.408] iteration 209 : loss : 0.558876, loss_ce: 0.184321
+[18:46:15.354] iteration 210 : loss : 0.558848, loss_ce: 0.186149
+[18:46:16.268] iteration 211 : loss : 0.550255, loss_ce: 0.194819
+[18:46:17.276] iteration 212 : loss : 0.574066, loss_ce: 0.242578
+[18:46:18.277] iteration 213 : loss : 0.554207, loss_ce: 0.134028
+[18:46:19.241] iteration 214 : loss : 0.583284, loss_ce: 0.212037
+[18:46:20.238] iteration 215 : loss : 0.590052, loss_ce: 0.212469
+[18:46:21.183] iteration 216 : loss : 0.550353, loss_ce: 0.182388
+[18:46:22.072] iteration 217 : loss : 0.569255, loss_ce: 0.210341
+[18:46:22.965] iteration 218 : loss : 0.546161, loss_ce: 0.164726
+[18:46:24.009] iteration 219 : loss : 0.552859, loss_ce: 0.137623
+[18:46:25.047] iteration 220 : loss : 0.587129, loss_ce: 0.218877
+[18:46:26.162] iteration 221 : loss : 0.563129, loss_ce: 0.183984
+[18:46:27.117] iteration 222 : loss : 0.563183, loss_ce: 0.206988
+[18:46:28.044] iteration 223 : loss : 0.551533, loss_ce: 0.197023
+[18:46:29.089] iteration 224 : loss : 0.573712, loss_ce: 0.253266
+[18:46:30.101] iteration 225 : loss : 0.554045, loss_ce: 0.204463
+[18:46:31.118] iteration 226 : loss : 0.577202, loss_ce: 0.205266
+[18:55:37.569] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:55:37.578] 93 iterations per epoch. 13950 max iterations 
+[23:46:30.060] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[23:46:30.074] 93 iterations per epoch. 13950 max iterations 
+[23:46:35.787] iteration 1 : loss : 1.462003, loss_ce: 2.253238
+[23:46:36.834] iteration 2 : loss : 1.389008, loss_ce: 2.067127
+[23:46:37.805] iteration 3 : loss : 1.253290, loss_ce: 1.765620
+[23:46:38.874] iteration 4 : loss : 1.100916, loss_ce: 1.402401
+[23:46:39.901] iteration 5 : loss : 0.965700, loss_ce: 1.106225
+[23:46:40.845] iteration 6 : loss : 0.849416, loss_ce: 0.831965
+[23:46:41.951] iteration 7 : loss : 0.753943, loss_ce: 0.592343
+[23:57:09.033] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[23:57:09.044] 93 iterations per epoch. 13950 max iterations 
+[23:57:10.519] iteration 1 : loss : 1.463436, loss_ce: 2.256036
+[23:57:11.643] iteration 2 : loss : 1.389043, loss_ce: 2.069767
+[23:57:12.703] iteration 3 : loss : 1.254670, loss_ce: 1.761721
+[23:57:13.938] iteration 4 : loss : 1.105466, loss_ce: 1.412898
+[23:57:15.074] iteration 5 : loss : 0.959562, loss_ce: 1.072695
+[23:57:16.069] iteration 6 : loss : 0.828471, loss_ce: 0.758553
+[23:57:17.222] iteration 7 : loss : 0.747242, loss_ce: 0.589332
+[23:57:18.231] iteration 8 : loss : 0.684621, loss_ce: 0.427675
+[23:57:19.355] iteration 9 : loss : 0.710158, loss_ce: 0.477609
+[23:57:20.592] iteration 10 : loss : 0.615700, loss_ce: 0.232509
+[23:57:21.597] iteration 11 : loss : 0.639917, loss_ce: 0.283812
+[23:57:22.626] iteration 12 : loss : 0.654003, loss_ce: 0.311989
+[23:57:23.694] iteration 13 : loss : 0.680571, loss_ce: 0.373635
+[23:57:24.760] iteration 14 : loss : 0.633732, loss_ce: 0.255926
+[23:57:25.759] iteration 15 : loss : 0.612356, loss_ce: 0.200810
+[23:57:26.687] iteration 16 : loss : 0.691392, loss_ce: 0.395512
+[23:57:27.866] iteration 17 : loss : 0.648929, loss_ce: 0.290092
+[23:57:28.926] iteration 18 : loss : 0.597932, loss_ce: 0.163874
+[23:57:29.863] iteration 19 : loss : 0.577347, loss_ce: 0.112342
+[23:57:30.953] iteration 20 : loss : 0.646352, loss_ce: 0.282739
+[23:57:31.962] iteration 21 : loss : 0.671881, loss_ce: 0.345685
+[23:57:32.926] iteration 22 : loss : 0.650511, loss_ce: 0.292919
+[23:57:33.957] iteration 23 : loss : 0.677090, loss_ce: 0.358515
+[23:57:34.992] iteration 24 : loss : 0.706653, loss_ce: 0.431525
+[23:57:35.999] iteration 25 : loss : 0.568127, loss_ce: 0.090027
+[23:57:37.134] iteration 26 : loss : 0.612433, loss_ce: 0.199174
+[23:57:38.197] iteration 27 : loss : 0.661319, loss_ce: 0.320577
+[23:57:39.262] iteration 28 : loss : 0.644106, loss_ce: 0.278660
+[23:57:40.207] iteration 29 : loss : 0.679426, loss_ce: 0.366441
+[23:57:41.234] iteration 30 : loss : 0.640914, loss_ce: 0.272171
+[23:57:42.237] iteration 31 : loss : 0.723146, loss_ce: 0.475666
+[23:57:43.219] iteration 32 : loss : 0.625645, loss_ce: 0.237422
+[23:57:44.292] iteration 33 : loss : 0.675311, loss_ce: 0.361409
+[23:57:45.430] iteration 34 : loss : 0.606878, loss_ce: 0.195723
+[23:57:46.431] iteration 35 : loss : 0.643354, loss_ce: 0.288667
+[23:57:47.434] iteration 36 : loss : 0.628603, loss_ce: 0.256336
+[23:57:48.533] iteration 37 : loss : 0.620599, loss_ce: 0.241081
+[23:57:49.646] iteration 38 : loss : 0.601231, loss_ce: 0.197013
+[23:57:50.736] iteration 39 : loss : 0.589893, loss_ce: 0.175470
+[23:57:51.815] iteration 40 : loss : 0.639910, loss_ce: 0.300996
+[23:57:53.059] iteration 41 : loss : 0.601193, loss_ce: 0.216802
+[23:57:54.102] iteration 42 : loss : 0.608351, loss_ce: 0.241227
+[23:57:55.187] iteration 43 : loss : 0.612508, loss_ce: 0.257041
+[23:57:56.279] iteration 44 : loss : 0.605787, loss_ce: 0.255340
+[23:57:57.269] iteration 45 : loss : 0.608364, loss_ce: 0.262872
+[23:57:58.326] iteration 46 : loss : 0.590871, loss_ce: 0.212840
+[23:57:59.399] iteration 47 : loss : 0.596664, loss_ce: 0.238542
+[23:58:00.403] iteration 48 : loss : 0.583358, loss_ce: 0.207050
+[23:58:01.577] iteration 49 : loss : 0.598266, loss_ce: 0.241921
+[23:58:02.633] iteration 50 : loss : 0.579702, loss_ce: 0.197032
+[10:11:20.102] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[10:11:20.122] 93 iterations per epoch. 13950 max iterations 
+[10:11:21.665] iteration 1 : loss : 1.463436, loss_ce: 2.256036
+[10:22:32.536] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[10:40:19.567] 93 iterations per epoch. 13950 max iterations 
+[23:38:22.070] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[23:38:22.080] 93 iterations per epoch. 13950 max iterations 
+[23:38:23.479] iteration 1 : loss : 1.463436, loss_ce: 2.256036
+[01:08:31.609] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[01:08:31.620] 93 iterations per epoch. 13950 max iterations 
+[01:10:47.241] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[01:10:47.248] 93 iterations per epoch. 13950 max iterations 
+[01:10:48.536] iteration 1 : loss : 1.463436, loss_ce: 2.256036
+[01:10:49.670] iteration 2 : loss : 1.389043, loss_ce: 2.069767
+[01:10:50.705] iteration 3 : loss : 1.254670, loss_ce: 1.761721
+[01:10:51.939] iteration 4 : loss : 1.105466, loss_ce: 1.412898
+[01:10:53.051] iteration 5 : loss : 0.959562, loss_ce: 1.072695
+[01:10:54.115] iteration 6 : loss : 0.828471, loss_ce: 0.758553
+[01:10:55.316] iteration 7 : loss : 0.747243, loss_ce: 0.589332
+[01:10:56.393] iteration 8 : loss : 0.684621, loss_ce: 0.427675
+[01:10:57.467] iteration 9 : loss : 0.710158, loss_ce: 0.477609
+[01:10:58.607] iteration 10 : loss : 0.615700, loss_ce: 0.232509
+[01:10:59.603] iteration 11 : loss : 0.639917, loss_ce: 0.283812
+[01:11:00.695] iteration 12 : loss : 0.654003, loss_ce: 0.311989
+[01:11:01.732] iteration 13 : loss : 0.680571, loss_ce: 0.373635
+[01:11:02.792] iteration 14 : loss : 0.633732, loss_ce: 0.255926
+[01:11:03.909] iteration 15 : loss : 0.612356, loss_ce: 0.200810
+[01:11:04.957] iteration 16 : loss : 0.691392, loss_ce: 0.395512
+[01:11:06.206] iteration 17 : loss : 0.648929, loss_ce: 0.290092
+[01:11:07.338] iteration 18 : loss : 0.597932, loss_ce: 0.163874
+[01:11:08.377] iteration 19 : loss : 0.577347, loss_ce: 0.112342
+[01:11:09.522] iteration 20 : loss : 0.646352, loss_ce: 0.282739
+[01:11:10.506] iteration 21 : loss : 0.671881, loss_ce: 0.345685
+[01:11:11.538] iteration 22 : loss : 0.650511, loss_ce: 0.292919
+[01:11:12.637] iteration 23 : loss : 0.677090, loss_ce: 0.358515
+[01:11:13.724] iteration 24 : loss : 0.706653, loss_ce: 0.431525
+[01:11:15.024] iteration 25 : loss : 0.568127, loss_ce: 0.090027
+[01:11:16.257] iteration 26 : loss : 0.612433, loss_ce: 0.199174
+[01:11:17.318] iteration 27 : loss : 0.661319, loss_ce: 0.320577
+[01:11:18.363] iteration 28 : loss : 0.644106, loss_ce: 0.278660
+[01:11:19.405] iteration 29 : loss : 0.679426, loss_ce: 0.366441
+[01:11:20.641] iteration 30 : loss : 0.640914, loss_ce: 0.272171
+[01:11:21.706] iteration 31 : loss : 0.723146, loss_ce: 0.475666
+[01:11:22.993] iteration 32 : loss : 0.625645, loss_ce: 0.237422
+[01:11:24.568] iteration 33 : loss : 0.675311, loss_ce: 0.361409
+[01:11:26.145] iteration 34 : loss : 0.606878, loss_ce: 0.195723
+[01:11:27.508] iteration 35 : loss : 0.643354, loss_ce: 0.288667
+[01:11:29.112] iteration 36 : loss : 0.628603, loss_ce: 0.256336
+[01:11:30.743] iteration 37 : loss : 0.620599, loss_ce: 0.241081
+[01:11:32.267] iteration 38 : loss : 0.601231, loss_ce: 0.197013
+[01:11:33.435] iteration 39 : loss : 0.589893, loss_ce: 0.175470
+[01:11:34.514] iteration 40 : loss : 0.639910, loss_ce: 0.300996
+[01:11:35.696] iteration 41 : loss : 0.601193, loss_ce: 0.216802
+[01:11:36.826] iteration 42 : loss : 0.608351, loss_ce: 0.241227
+[01:11:37.873] iteration 43 : loss : 0.612508, loss_ce: 0.257041
+[01:11:38.909] iteration 44 : loss : 0.605787, loss_ce: 0.255340
+[01:11:39.880] iteration 45 : loss : 0.608364, loss_ce: 0.262872
+[01:11:40.889] iteration 46 : loss : 0.590871, loss_ce: 0.212840
+[01:11:41.972] iteration 47 : loss : 0.596664, loss_ce: 0.238542
+[01:11:42.944] iteration 48 : loss : 0.583358, loss_ce: 0.207050
+[01:11:43.990] iteration 49 : loss : 0.598266, loss_ce: 0.241921
+[01:11:44.967] iteration 50 : loss : 0.579702, loss_ce: 0.197032
+[01:11:46.099] iteration 51 : loss : 0.591991, loss_ce: 0.225941
+[01:11:47.147] iteration 52 : loss : 0.588502, loss_ce: 0.222472
+[01:11:48.208] iteration 53 : loss : 0.588810, loss_ce: 0.216494
+[01:11:49.302] iteration 54 : loss : 0.574166, loss_ce: 0.172890
+[01:11:50.351] iteration 55 : loss : 0.588387, loss_ce: 0.210613
+[01:11:51.485] iteration 56 : loss : 0.587649, loss_ce: 0.209514
+[01:11:52.658] iteration 57 : loss : 0.592615, loss_ce: 0.229496
+[01:11:53.962] iteration 58 : loss : 0.578091, loss_ce: 0.186943
+[01:11:55.200] iteration 59 : loss : 0.587096, loss_ce: 0.222178
+[01:11:56.349] iteration 60 : loss : 0.582520, loss_ce: 0.213625
+[01:11:57.663] iteration 61 : loss : 0.566243, loss_ce: 0.185875
+[01:11:58.785] iteration 62 : loss : 0.595987, loss_ce: 0.248956
+[01:11:59.886] iteration 63 : loss : 0.609322, loss_ce: 0.296468
+[01:12:01.067] iteration 64 : loss : 0.592360, loss_ce: 0.252949
+[01:58:23.998] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[01:58:24.008] 93 iterations per epoch. 13950 max iterations 
+[01:58:25.494] iteration 1 : loss : 1.463436, loss_ce: 2.256036
+[01:58:26.892] iteration 2 : loss : 1.389043, loss_ce: 2.069767
+[01:58:28.228] iteration 3 : loss : 1.254670, loss_ce: 1.761721
+[15:48:23.548] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:48:23.564] 93 iterations per epoch. 13950 max iterations 
+[15:50:16.152] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:50:16.159] 93 iterations per epoch. 13950 max iterations 
+[15:50:51.239] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:50:51.247] 93 iterations per epoch. 13950 max iterations 
+[16:14:31.378] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[16:14:31.385] 93 iterations per epoch. 13950 max iterations 
+[16:15:38.294] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[16:15:38.302] 93 iterations per epoch. 13950 max iterations 
+[16:18:11.608] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[16:18:11.616] 93 iterations per epoch. 13950 max iterations 
+[16:24:29.374] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=9, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[16:24:29.380] 93 iterations per epoch. 13950 max iterations 
+[17:08:28.102] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[17:08:28.110] 93 iterations per epoch. 13950 max iterations 
+[17:11:15.591] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[17:11:15.598] 93 iterations per epoch. 13950 max iterations 
+[17:17:22.933] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[17:17:22.940] 93 iterations per epoch. 13950 max iterations 
+[01:16:42.014] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[10:25:59.688] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='./data/Synapse/train_npz', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:17:36.960] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:17:36.970] 1 iterations per epoch. 150 max iterations 
+[14:19:37.567] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:19:37.573] 1 iterations per epoch. 150 max iterations 
+[14:22:49.669] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:22:49.675] 1 iterations per epoch. 150 max iterations 
+[14:36:29.609] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:36:29.617] 1 iterations per epoch. 150 max iterations 
+[14:37:23.403] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:37:23.409] 1 iterations per epoch. 150 max iterations 
+[14:38:29.268] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:38:29.275] 1 iterations per epoch. 150 max iterations 
+[14:40:29.633] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:40:29.643] 1 iterations per epoch. 150 max iterations 
+[14:40:45.196] save model to ./output_dir\epoch_99.pth
+[14:40:53.002] save model to ./output_dir\epoch_149.pth
+[14:40:53.140] save model to ./output_dir\epoch_149.pth
+[15:07:24.223] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:07:24.230] 1 iterations per epoch. 150 max iterations 
+[15:07:40.337] save model to ./output_dir\epoch_99.pth
+[15:07:48.652] save model to ./output_dir\epoch_149.pth
+[15:07:48.798] save model to ./output_dir\epoch_149.pth
+[15:09:04.003] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:09:04.013] 1 iterations per epoch. 150 max iterations 
+[15:09:19.918] save model to ./output_dir\epoch_99.pth
+[15:09:28.187] save model to ./output_dir\epoch_149.pth
+[15:09:28.330] save model to ./output_dir\epoch_149.pth
+[15:10:00.485] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:10:00.493] 1 iterations per epoch. 150 max iterations 
+[15:10:16.958] save model to ./output_dir\epoch_99.pth
+[15:10:24.974] save model to ./output_dir\epoch_149.pth
+[15:10:25.110] save model to ./output_dir\epoch_149.pth
+[15:27:51.806] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:27:51.813] 1 iterations per epoch. 150 max iterations 
+[15:28:07.809] save model to ./output_dir\epoch_99.pth
+[15:28:15.527] save model to ./output_dir\epoch_149.pth
+[15:28:15.686] save model to ./output_dir\epoch_149.pth
+[15:36:54.642] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:36:54.649] 1 iterations per epoch. 150 max iterations 
+[15:37:10.529] save model to ./output_dir\epoch_99.pth
+[15:37:18.400] save model to ./output_dir\epoch_149.pth
+[15:37:18.541] save model to ./output_dir\epoch_149.pth
+[00:16:17.309] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[00:16:17.334] 1 iterations per epoch. 150 max iterations 
+[00:16:47.845] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[00:16:47.856] 1 iterations per epoch. 150 max iterations 
+[13:29:46.470] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[14:33:20.303] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:08:06.881] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[15:38:33.955] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='./configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:28:02.852] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.01, batch_size=24, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-master\\IsoNet\\bin\\results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[18:28:02.864] 3 iterations per epoch. 450 max iterations 
+[13:48:16.975] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-last\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[13:49:11.759] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[13:49:11.770] 7 iterations per epoch. 70 max iterations 
+[13:51:40.401] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[13:51:40.411] 7 iterations per epoch. 70 max iterations 
+[12:13:03.073] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[12:13:03.088] 7 iterations per epoch. 70 max iterations 
+[12:17:53.214] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
+[12:18:31.978] Namespace(accumulation_steps=None, amp_opt_level='O1', base_lr=0.005, batch_size=12, cache_mode='part', cfg='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\models\\SwinUnet\\configs\\swin_tiny_patch4_window7_224_lite.yaml', dataset='Result', deterministic=1, eval=False, img_size=64, list_dir='./lists/lists_Synapse', max_epochs=10, max_iterations=30000, n_gpu=1, num_classes=64, opts=None, output_dir='./output_dir', resume=None, root_path='E:\\workspace\\py_workspace\\py_fold\\IsoNet-swimunet\\IsoNet\\bin\\other_results\\data', seed=1234, tag=None, throughput=False, use_checkpoint=False, zip=False)
