@@ -1,6 +1,4 @@
 import sys
-sys.path.append('/public/home/yuyibei2023/IsoNet-unet-noise/')
-
 import os,traceback
 from IsoNet.util.dict2attr import Arg,idx2list
 from IsoNet.preprocessing.cubes import create_cube_seeds,crop_cubes

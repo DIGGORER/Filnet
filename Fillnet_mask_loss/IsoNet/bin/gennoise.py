@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/public/home/yuyibei2023/IsoNet-unet-noise/')
 
 import os,traceback
 from IsoNet.util.dict2attr import Arg,idx2list

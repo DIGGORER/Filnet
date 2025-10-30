@@ -3,7 +3,6 @@
 
 import sys
 import os
-sys.path.append("E:\workspace\py_workspace\py_fold\IsoNet-unet-noise\\")
 
 import fire
 import logging

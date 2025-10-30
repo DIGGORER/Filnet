@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/public/home/yuyibei2023/IsoNet-unet-noise-modify_loss12_absplus_hiv')
 from IsoNet.bin.isonet import ISONET
 import mrcfile
 import numpy as np
