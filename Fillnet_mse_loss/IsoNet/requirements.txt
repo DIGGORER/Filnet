@@ -1,8 +1,0 @@
-###### Requirements without Version Specifiers ######
-mrcfile
-scipy
-fire
-tqdm
-PyQt5
-###### Requirements with Version Specifiers ######
-scikit-image
