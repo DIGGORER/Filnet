@@ -6,3 +6,5 @@ The make_mask method generates masks to locate valid information.
 
 Both the deconv and make_mask methods are optional and do not affect the execution of subsequent processes.
 The refine method is used for model training, while the predict method enables the restoration of cryo-electron microscopy images.
+
+The environment.yml file is applicable to the Fillnet_mse, Fillnet_ssim, and Fillnet_mask projects.
