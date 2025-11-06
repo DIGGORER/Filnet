@@ -119,4 +119,4 @@ dependencies:
       - torch==1.12.1+cu113
       - torchaudio==0.12.1+cu113
       - torchvision==0.13.1+cu113
-prefix: /public/home/yuyibei2023/mambaforge/envs/isonet_noise
+prefix: /mambaforge/envs/isonet_noise
